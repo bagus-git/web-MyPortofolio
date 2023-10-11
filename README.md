@@ -1,3 +1,3 @@
 # Web My Portofolio
  
-[Kunjungi situs Saya](https://bagusadisaputra.netlify.app/)
+Kunjungi Situs Saya: [bagusadisaputra.netlify.app](https://bagusadisaputra.netlify.app/)
