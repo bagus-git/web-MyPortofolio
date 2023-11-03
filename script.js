@@ -4,3 +4,10 @@ function toggleMenu() {
   menu.classList.toggle('open');
   icon.classList.toggle('open');
 }
+
+function scrollToContact() {
+  const contactElement = document.querySelector('#contact');
+  if (contactElement) {
+    contactElement.scrollIntoView({ behavior: 'smooth' });
+  }
+}
